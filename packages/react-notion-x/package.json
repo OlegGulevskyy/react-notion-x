@@ -3,7 +3,14 @@
   "version": "6.15.17",
   "type": "module",
   "description": "Fast and accurate React renderer for Notion.",
-  "repository": "ScriptAddicts/react-notion-x",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:ScriptAddicts/react-notion-x.git",
+    "directory": "packages/react-notion-x"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/scriptaddicts/"
+  },
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
@@ -51,5 +58,5 @@
     "react": ">=16",
     "react-dom": ">=16"
   },
-  "gitHead": "fccfdb935cd96054e4c6b3c5c36034b8794c984f"
+  "gitHead": "9ab6a40731830f10a2ddb6fb2dfe632576cbdedb"
 }

@@ -2,7 +2,14 @@
   "name": "notion",
   "private": true,
   "description": "Fast and accurate React renderer for Notion. TS batteries included.",
-  "repository": "ScriptAddicts/react-notion-x",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:ScriptAddicts/react-notion-x.git",
+    "directory": "packages/*"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/scriptaddicts/"
+  },
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "engines": {

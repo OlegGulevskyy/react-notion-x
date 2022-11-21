@@ -3,12 +3,19 @@
   "version": "6.15.17",
   "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
-  "repository": "ScriptAddicts/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
   "module": "./build/index.js",
   "types": "./build/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:ScriptAddicts/react-notion-x.git",
+    "directory": "packages/notion-client"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/scriptaddicts/"
+  },
   "sideEffects": false,
   "files": [
     "build"
@@ -38,5 +45,5 @@
       "--experimental-specifier-resolution=node"
     ]
   },
-  "gitHead": "fccfdb935cd96054e4c6b3c5c36034b8794c984f"
+  "gitHead": "9ab6a40731830f10a2ddb6fb2dfe632576cbdedb"
 }
