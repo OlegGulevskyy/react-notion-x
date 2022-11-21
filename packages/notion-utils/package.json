@@ -1,6 +1,6 @@
 {
   "name": "notion-utils",
-  "version": "6.15.17",
+  "version": "6.15.18",
   "type": "module",
   "description": "Useful utilities for working with Notion data. Isomorphic.",
   "repository": {
@@ -38,7 +38,7 @@
     "is-url-superb": "^6.1.0",
     "mem": "^9.0.2",
     "normalize-url": "^7.0.3",
-    "notion-types": "^6.15.17",
+    "notion-types": "^6.15.18",
     "p-queue": "^7.2.0"
   },
   "ava": {
