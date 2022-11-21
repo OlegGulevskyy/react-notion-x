@@ -1,11 +1,11 @@
 {
-  "name": "react-notion-x",
+  "name": "@scriptaddicts/react-notion-x",
   "version": "6.15.18",
   "type": "module",
   "description": "Fast and accurate React renderer for Notion.",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:ScriptAddicts/react-notion-x.git",
+    "url": "git@github.com:ScriptAddicts/react-notion-x.git",
     "directory": "packages/react-notion-x"
   },
   "publishConfig": {
@@ -58,5 +58,5 @@
     "react": ">=16",
     "react-dom": ">=16"
   },
-  "gitHead": "9ab6a40731830f10a2ddb6fb2dfe632576cbdedb"
+  "gitHead": "cd84c45b7e89750a184d0ee89efacd51f27dd1ec"
 }
