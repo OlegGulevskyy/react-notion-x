@@ -7,4 +7,4 @@ export * from './components/text'
 export * from './components/header'
 export * from './components/page-icon'
 
-console.log('Simple log 123')
+console.log('Simple log 123123')

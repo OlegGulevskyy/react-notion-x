@@ -5,5 +5,13 @@
   "packages": [
     "packages/*",
     "examples/*"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegGulevskyy/react-notion-x.git"
+  }
 }
