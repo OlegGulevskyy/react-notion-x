@@ -4,7 +4,7 @@
   "description": "Fast and accurate React renderer for Notion. TS batteries included.",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:ScriptAddicts/react-notion-x.git",
+    "url": "git@github.com:ScriptAddicts/react-notion-x.git",
     "directory": "packages/*"
   },
   "publishConfig": {
