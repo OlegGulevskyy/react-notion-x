@@ -1,6 +1,6 @@
 {
   "name": "@scriptaddicts/notion-types",
-  "version": "6.15.18",
+  "version": "6.15.19",
   "type": "module",
   "description": "TypeScript types for core Notion data structures.",
   "repository": {

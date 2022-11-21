@@ -1,6 +1,6 @@
 {
   "name": "@scriptaddicts/notion-compat",
-  "version": "6.15.18",
+  "version": "6.15.19",
   "type": "module",
   "description": "Compatibility layer between the official Notion API and unofficial private API.",
   "repository": {
