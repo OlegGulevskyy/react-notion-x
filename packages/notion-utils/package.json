@@ -3,7 +3,7 @@
   "version": "6.15.8",
   "type": "module",
   "description": "Useful utilities for working with Notion data. Isomorphic.",
-  "repository": "OlegGulevskyy/react-notion-x",
+  "repository": "ScriptAddicts/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",

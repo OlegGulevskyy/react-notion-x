@@ -3,7 +3,7 @@
   "version": "6.15.15",
   "type": "module",
   "description": "Fast and accurate React renderer for Notion.",
-  "repository": "OlegGulevskyy/react-notion-x",
+  "repository": "ScriptAddicts/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
@@ -51,5 +51,5 @@
     "react": ">=16",
     "react-dom": ">=16"
   },
-  "gitHead": "8f7026e938c7591bbd1f8b3f445ad058d2bfd6bf"
+  "gitHead": "f7325481e83708640cdf511c47f3fb4d5dcde03e"
 }

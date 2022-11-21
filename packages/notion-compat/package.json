@@ -3,7 +3,7 @@
   "version": "6.15.8",
   "type": "module",
   "description": "Compatibility layer between the official Notion API and unofficial private API.",
-  "repository": "OlegGulevskyy/react-notion-x",
+  "repository": "ScriptAddicts/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
