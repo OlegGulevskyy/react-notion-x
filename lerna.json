@@ -8,10 +8,10 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com/OlegGulevskyy"
+    "registry": "https://npm.pkg.github.com/ScriptAddicts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlegGulevskyy/react-notion-x.git"
+    "url": "git+https://github.com/ScriptAddicts/react-notion-x.git"
   }
 }
