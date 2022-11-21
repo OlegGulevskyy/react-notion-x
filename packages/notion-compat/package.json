@@ -9,7 +9,7 @@
     "directory": "packages/notion-compat"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/scriptaddicts/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",

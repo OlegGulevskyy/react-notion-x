@@ -14,7 +14,7 @@
     "directory": "packages/notion-client"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/scriptaddicts/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "sideEffects": false,
   "files": [
